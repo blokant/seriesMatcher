@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bde7be98-f1ab-4239-b2fe-14d672b8f419" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SeriesMatcher/org/smak/Main.class" afterPath="$PROJECT_DIR$/out/production/SeriesMatcher/org/smak/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SeriesMatcher/org/smak/SliceMatcher.class" afterPath="$PROJECT_DIR$/out/production/SeriesMatcher/org/smak/SliceMatcher.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/smak/Main.java" afterPath="$PROJECT_DIR$/src/org/smak/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/smak/SliceMatcher.java" afterPath="$PROJECT_DIR$/src/org/smak/SliceMatcher.java" />
     </list>
     <ignored path="SeriesMatcher.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -421,6 +421,13 @@
       <option name="number" value="Default" />
       <updated>1456168966242</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added helper routine: set series for each number from left to right">
+      <created>1456172780151</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456172780151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -453,6 +460,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added helper routine: set series for each number from left to right" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added helper routine: set series for each number from left to right" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
