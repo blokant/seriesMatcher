@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
         SliceMatcher sliceMatcher = new SliceMatcher();
-        System.out.println(sliceMatcher.getSeries(56));
+        System.out.println(sliceMatcher.getSeries(12000));
     }
 }
